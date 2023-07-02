@@ -7,7 +7,7 @@
 * Records an audio.
 * Recognizes the language of the input audio.
 * Converts this audio into text.
-* Finally the generated text is used to print an ChatGPT output.
+* Finally the generated text is used to print an ChatGPT's output.
 
 ## Modules Used
 * Wisper
